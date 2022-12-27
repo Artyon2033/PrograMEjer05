@@ -1,8 +1,8 @@
-import 'package:DataPicker/pages/alert_page.dart';
-import 'package:DataPicker/pages/avatar_page.dart';
-import 'package:DataPicker/pages/card_page.dart';
-import 'package:DataPicker/pages/input_page.dart';
-import 'package:DataPicker/pages/selection_page.dart';
+import 'package:flutter_application_1/pages/alert_page.dart';
+import 'package:flutter_application_1/pages/avatar_page.dart';
+import 'package:flutter_application_1/pages/card_page.dart';
+import 'package:flutter_application_1/pages/input_page.dart';
+import 'package:flutter_application_1/pages/selection_page.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
